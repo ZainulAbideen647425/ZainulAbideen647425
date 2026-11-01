@@ -1,18 +1,33 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zain ul Abidin
-=======================================================================================================================================
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C100%3A10B981&height=180&section=header&text=Zain%20ul%20Abidin&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Building%20Intelligent%20Software%20Solutions&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header banner" />
 
-Python Developer | AI/ML Enthusiast | Building Intelligent Software Solutions
------------------------------------------------------------------------------
-
-I am a Python developer passionate about Artificial Intelligence, Machine Learning, and software development. I enjoy building practical applications, exploring data-driven technologies, and developing intelligent solutions to real-world problems. My focus is on writing clean, efficient code and continuously expanding my knowledge of modern development technologies.
-
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [zainbutt2814@gmail.com](mailto:zainbutt2814@gmail.com)
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source%20Code%20Pro&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=48&lines=Python%20Developer;AI%2FML%20Enthusiast;Data%20Science%20Learner;Building%20Intelligent%20Applications;Exploring%20Machine%20Learning" alt="Typing SVG" />
 </p>
 
-### Socials
+## About Me
 
-<p align="left"> <a href="https://www.github.com/https://github.com/ZainulAbideen647425?utm_source=chatgpt.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/zain-ul-abideen-462020298/?utm_source=chatgpt.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+I am a Software Engineering professional in development, focused on Python programming, Artificial Intelligence, and Machine Learning. I enjoy developing practical software applications, working with data-driven technologies, and exploring intelligent solutions to real-world challenges. With hands-on experience in Django, data analysis, and machine learning projects, I am continuously expanding my technical expertise and exploring modern backend and AI technologies.
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zain-ul-abideen-462020298" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zainbutt2814@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,bootstrap,mysql,github,git,gcp,vscode,figma&perline=10" alt="Tech stack" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZainulAbideen647425&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulAbideen647425&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZainulAbideen647425&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
