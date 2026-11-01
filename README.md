@@ -24,10 +24,5 @@ I am a Software Engineering professional in development, focused on Python progr
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZainulAbideen647425&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulAbideen647425&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ZainulAbideen647425&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
